@@ -50,6 +50,7 @@ public class Zoo extends Zviera {
                 break;
             default:
                 System.out.println("Nikoho nenaslo");
+
         }
     }
 }
