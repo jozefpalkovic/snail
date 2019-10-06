@@ -39,6 +39,7 @@ public class Zoo extends Zviera {
         zajac.zerie();
         System.out.println(" ");
 
+
         Rank a = Rank.CAPTAIN;
         switch (a){
             case CAPTAIN:
