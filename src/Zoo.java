@@ -36,6 +36,8 @@ public class Zoo extends Zviera {
         slimak.lezie();
         slimak.skace();
         zajac.skace();
+        zajac.zerie();
+        System.out.println(" ");
 
         Rank a = Rank.CAPTAIN;
         switch (a){
